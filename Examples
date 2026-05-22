@@ -3,30 +3,24 @@
 Since you can use this on "any" programming language, we will use Python and C#.
 
 **Example, for C#**
-```csharp
 Console.WriteLine("Tomatoes");
 Console.WriteLine("Tomatoes");
 Console.WriteLine("Tomatoes");
 Console.WriteLine("Tomatoes");
 Console.WriteLine("Tomatoes");
-```
 **Output:**
-```csharp
 hHGHGFFAe.WriteLine("a");fhgd
 Console.WriteLine("fff");
-GS
-```
+GS`
 **Example, for Python**
-```py
+
 first = 1
 second = 2
 third = 3
 print("I have no idea what im doing")
-```
+
 **Output:**
-```py
 tes = NothignTONS!!!!
 2 = ..,,,,,,
 shawarma = worsethancheeseburgers
 I have no idea what im doing("print")
-```
